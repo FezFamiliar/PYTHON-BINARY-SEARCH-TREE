@@ -17,3 +17,11 @@ Rotations are ways to rebalance a tree. There are 4 rotations possible: Left,Rig
 
 
 ![](https://github.com/FezFamiliar/PYTHON-BINARY-SEARCH-TREE/blob/master/balance.png)
+
+
+
+I've also included the 3 types of depth first search algorithms: Preorder, Inorder, Postorder. Which are recursive algorithms to traverse a tree like data structure.
+
+
+
+![](https://github.com/FezFamiliar/PYTHON-BINARY-SEARCH-TREE/blob/master/traversal.png)
