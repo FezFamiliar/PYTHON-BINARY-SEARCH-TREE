@@ -10,3 +10,10 @@ A binary search tree is a binary tree (every node can have at most 2 children), 
 In an averagte case, every operation (insertion, deletion, search) can be executed in O(logn), although in the worst case it **linear**.
 This happens because the tree gets heavily **imbalanced** and basically it becomes a linked list. We will see soon that improvements can be added so that any tree self balances itself. Thus lowering the complexity to O(logn).
 
+
+
+Rotations are ways to rebalance a tree. There are 4 rotations possible: Left,Right, Left-Right and Right-Left.
+
+
+
+![](https://github.com/FezFamiliar/PYTHON-BINARY-SEARCH-TREE/blob/master/balance.png)
