@@ -25,3 +25,6 @@ I've also included the 3 types of depth first search algorithms: Preorder, Inord
 
 
 ![](https://github.com/FezFamiliar/PYTHON-BINARY-SEARCH-TREE/blob/master/traversal.png)
+
+
+I'm trying to figure out a semi-optimal way of printing a binary search tree in the console visually without too much hard-coding and a height limit of 6-7. Also, the **removal** operation is the trickiest one so it might contain some unchecked cases.
